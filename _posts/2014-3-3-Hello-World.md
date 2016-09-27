@@ -25,9 +25,7 @@ body {background-color: #F0F8FF;}
 
   	<div  tagid = 'linkdiv'><a href="http://www.google.com"> Plain Text Title </a></div>
 
-  	<div id = 'imgdiv'><img src="https://pics.onsizzle.com/what-why-this-happen-becuz-u-1613396.png" alt="windows 95 lifestyle"/></div>
-<p class = "sanserif"><h1> <font size="3">Xtra crispy with a side of compression artifacts
-    </p>
+  	<div id = 'imgdiv'><img src="https://pics.onsizzle.com/what-why-this-happen-becuz-u-1613396.png" alt="windows 95 lifestyle"/> <figcaption><font size="3">Xtra crispy with a side of compression artifacts</figcaption></div>
 
 <div></div>
 

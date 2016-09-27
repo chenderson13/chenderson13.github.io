@@ -29,13 +29,10 @@ body {background-color: #F0F8FF;}
 <p class = "sanserif"><h1> <font size="3">Xtra crispy with a side of compression artifacts
     </p>
 
+<div></div>
+
   <p class = "sanserif"> Not dead not dead not deqkdj kejhjkserhfjehrjkfh ejr g.</p>
 
-  </div>
- 	
-
-  		<td></td>
-  	</table> </div>
 
   	<div>
 
@@ -55,11 +52,5 @@ body {background-color: #F0F8FF;}
   	</ul>
   	</div>
 
-</body>
 
-
-
-
-
-</html>
 

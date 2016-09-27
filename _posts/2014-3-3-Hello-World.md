@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Metis Week 1 - Wait a minute, all these problems are totally solvable
+title: Metis Week 1
 ---
 
 <html>
 <head>
 <style>
-p.sanserif {font-family: "Comic Sans MS", cursive, sans-serif;}
-body {background-color: #DDA0DD;}
+body {background-color: #FAF0E6;}
 h1 {color: blue;}
-p {color: red;}
 </style>
   <title>Lizard Life</title>
 </head>
@@ -18,8 +16,11 @@ p {color: red;}
 <body>
   <div id = 'textdiv'>
 
-    <p class = "sanserif"><h1> <font size="10"> Hello World! </font></h1>
-      Lizard Lyfe.
+    <p class = "sanserif"><h1> <font size="10"> Week 1 of 12 - First impressions, first project </font></h1>
+	<div></div>
+	<div>*or*</div>
+	<div></div>
+      Wait a minute, all these problems are totally solvable
     </p>
 
     <p class = "sanserif"> We are aware that some of you may have significantly more web experience than others.  This is okay.  Remember the ideals of Pair Problems, if you're more experienced than your partner than you should take it upon yourself to help them get to the same understanding (it will reinforce your own understanding too).  If you're the other side of the coin, don't check out--you will **need** to understand how simple HTML works in web pages to be able to get through Project 2, so use your more experienced partner liberally to learn and stay engaged.  If you're both struggling, then help each other!  And if you're both masters, then make us something cool!</p>
@@ -28,7 +29,7 @@ p {color: red;}
 
   	<div  tagid = 'linkdiv'><a href="http://www.google.com"> Plain Text Title </a></div>
 
-  	<div id = 'imgdiv'><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Rainbow_02.jpg" alt="the hovering text"/></div>
+  	<div id = 'imgdiv'><img src="https://drive.google.com/open?id=0B6C9-7g_yfioV0Y2dzhRdjVUMjg" alt="the hovering text"/></div>
 
   	<div id = 'tbldiv'> <table> 
   		<tr>
